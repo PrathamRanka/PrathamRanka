@@ -1,7 +1,7 @@
 # Hi there 👋 I'm [Pratham Ranka]!
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **[Wheat-Detector](https://github.com/username/project-name)**.
+- 🔭 I’m currently working on **[Wheat-Detector](https://github.com/ayanokojikiyotaka6/Wheat-Detector-)**.
 - 🌱 I’m learning **[Python/C++]**.
 - 💬 Ask me about **[Anything]**.
 - 📫 How to reach me: **[pranka0789@gmail.com]**.
@@ -19,14 +19,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanokojikiyotaka6&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayanokojikiyotaka6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanokojikiyotaka6&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=username&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayanokojikiyotaka6&theme=radical)
 
 ---
 
@@ -43,7 +41,5 @@
 - 🐱‍💻 Quote: *"The best way to predict the future is to create it."*
 
 ---
-
 ## 📈 Visitor Count
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=username.username)
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayanokojikiyotaka6.ayanokojikiyotaka6)
