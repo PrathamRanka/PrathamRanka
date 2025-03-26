@@ -40,6 +40,6 @@
 - 🎨 Hobbies: **[Reading, Basketball & Debuging]**
 - 🐱‍💻 Quote: *"The best way to predict the future is to create it."*
 
----
-## 📈 Visitor Count
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayanokojikiyotaka6.ayanokojikiyotaka6)
+---## 📈 Visitor Count
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=ayanokojikiyotaka6&repo=github-profile&countColor=%237B1E7A)
+
