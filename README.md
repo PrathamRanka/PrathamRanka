@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **[Wheat-Detector](https://github.com/ayanokojikiyotaka6/Wheat-Detector-)**.
 - 🌱 I’m learning **[Python/C++]**.
 - 💬 Ask me about **[Anything]**.
-- 📫 How to reach me: **[pranka0789@gmail.com]**.
+- 📫 How to reach me: **[pranka0789@gmail.com](https://gmail.com/pranka0789@gmail.com)**.
 - ⚡ Fun fact: **[Just an individual learning about life]**.
 
 ---
