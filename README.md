@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Pratham Ranka]!
+# Hi there 👋 I'm Pratham Ranka!
 
 ## 🌟 About Me
 - 🔭 I’m currently working on **[Wheat-Detector](https://github.com/ayanokojikiyotaka6/Wheat-Detector-)**.
