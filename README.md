@@ -2,8 +2,8 @@
 
 ## 🌟 About Me
 - 🔭 I’m currently working on **[Wheat-Detector](https://github.com/ayanokojikiyotaka6/Wheat-Detector-)**.
-- 🌱 I’m learning **[Python/C++]**.
-- 💬 Ask me about **[Anything]**.
+- 🌱 I’m learning **Python/C++**.
+- 💬 Ask me about **Anything**.
 - 📫 How to reach me: **[pranka0789@gmail.com](https://gmail.com/pranka0789@gmail.com)**.
 - ⚡ Fun fact: **[Just an individual learning about life]**.
 
@@ -19,12 +19,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanokojikiyotaka6&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayanokojikiyotaka6&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanokojikiyotaka6&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathamRanka&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrathamRanka&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRanka&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayanokojikiyotaka6&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrathamRanka&theme=radical)
 
 ---
 
