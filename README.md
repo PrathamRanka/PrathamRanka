@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://x.com/Narcisst_boiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Narcisst_boiii" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prathamranka06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham ranka" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/712576574091952129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord user" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/712576574091952129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord user" height="20" width="40" /></a>
 </p>
 
 ## 🛠️ Tech Stack
@@ -45,7 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathamRanka&show_icons=true&locale=en" alt="PrathamRanka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamRanka&" alt="PrathamRanka" /></p>
 
 
 <!--
