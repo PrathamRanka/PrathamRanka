@@ -1,46 +1,61 @@
-### <h1 align="center">Hi 👋, I'm Pratham Ranka</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pratham Ranka</h1>
+<h3 align="center">Full Stack Dev • OWASP @Thapar • Creative Coder</h3>
 
-<img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathamRanka&label=Profile%20views&color=0e75b6&style=flat" alt="PrathamRanka" /> </p>
-
-- 🌱 I’m currently learning **WEB-3**
-
-- 💬 Ask me about **DEVELOPMENT**
-
-- 📫 How to reach me **pranka0789@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/pr7ham_develops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr7ham_develops height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prathamranka06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham ranka" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/712576574091952129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord user" height="20" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Dev+with+Next.js+%26+Node.js;GSAP+%2B+Framer+Motion+Artist;AI+%7C+Blockchain+%7C+Cloud+Learner;Open-source+%26+Research+Enthusiast&center=true&width=500&height=50" />
 </p>
 
-## 🛠️ Tech Stack
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+### 🧠 About Me
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 🔭 Currently building advanced **event systems**, **3D UIs**, and **OWASP tools**
+- 🌱 Exploring **High Frequency Trading**, **Cloud Computing**, and **Deep Learning**
+- ⚡ Fun fact: I design dark-themed, animated, and interactive web experiences
+- ✨ I'm obsessed with making **animations that feel alive** — GSAP, Spline, shaders, the works.
 
-### Backend
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+---
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 🛠️ Languages & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathamRanka&show_icons=true&locale=en&layout=compact" alt="PrathamRanka" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,threejs,gsap,figma,git,vercel,netlify,html,css" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathamRanka&show_icons=true&locale=en" alt="PrathamRanka" /></p>
+#### 🔧 Other Tools
+- Animation: **Framer Motion**, **Spline 3D**, **Parallax Scroll**, **Bento Grid**, **Shadcn**
+- Backend: **Mongoose**, **Supabase**, **REST APIs**
+- Blockchain: **Ether.js**
+- Deployment: **Railway**, **Render**, **Vercel**, **Netlify**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamRanka&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrathamRanka&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRanka&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+[![Pratham's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrathamRanka&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/prathamranka06/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://owasptiet.com"><img src="https://img.shields.io/badge/OWASP-Thapar-blueviolet?style=for-the-badge&logo=owasp&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathamRanka&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
