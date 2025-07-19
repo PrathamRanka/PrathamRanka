@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently building advanced **event systems**, **3D UIs**, and **OWASP tools**
-- 🌱 Exploring **High Frequency Trading**, **Cloud Computing**, and **Deep Learning**
+- 🌱 Exploring **High Frequency Trading**, **Cloud Computing**, and **DSA**
 - ⚡ Fun fact: I design dark-themed, animated, and interactive web experiences
 - ✨ I'm obsessed with making **animations that feel alive** — GSAP, Spline, shaders, the works.
 
@@ -19,7 +19,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,threejs,gsap,figma,git,vercel,netlify,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,threejs,figma,git,vercel,netlify,html,css" />
 </p>
 
 #### 🔧 Other Tools
@@ -32,17 +32,38 @@
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamRanka&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrathamRanka&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRanka&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamRanka&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathamRanka&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathamRanka&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathamRanka&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrathamRanka&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrathamRanka&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamRanka&theme=tokyo-night&area=true&hide_border=false" />
+</p>
+
 
 ---
 
-### 🔥 Contribution Graph
+### 🔥 Contribution Heatmap
 
-[![Pratham's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrathamRanka&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamRanka&theme=tokyonight" />
+</p>
+
 
 ---
 
