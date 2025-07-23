@@ -32,39 +32,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamRanka&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=general&theme=dracula&chart=donut" alt="Comprehensive GitHub Statistics" />
+  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=languages&theme=forest&chart=pie" alt="Top Programming Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathamRanka&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathamRanka&theme=tokyonight" />
+  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=contributions&theme=tokyonight&chart=bars" alt="Yearly Contributions" />
+  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=top-repos&theme=pastel&chart=bars" alt="Top Repositories" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathamRanka&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrathamRanka&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=contributions&theme=monokai&chart=heatmap" alt="Contribution Heatmap"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrathamRanka&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamRanka&theme=tokyo-night&area=true&hide_border=false" />
-</p>
-
----
-
-### 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamRanka&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Contact Me
 
