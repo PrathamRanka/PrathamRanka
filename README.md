@@ -34,19 +34,9 @@
 
 ### 🚀 GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=general&theme=dracula&chart=donut" alt="Comprehensive GitHub Statistics" />
-  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=languages&theme=forest&chart=pie" alt="Top Programming Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathamRanka&show_icons=true&theme=dark&locale=en&layout=compact" alt="PrathamRanka" /></p>
 
-<p align="center">
-  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=contributions&theme=tokyonight&chart=bars" alt="Yearly Contributions" />
-  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=top-repos&theme=pastel&chart=bars" alt="Top Repositories" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=PrathamRanka&type=contributions&theme=monokai&chart=heatmap" alt="Contribution Heatmap"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathamRanka&show_icons=true&theme=dark&locale=en" alt="PrathamRanka" /></p>
 
 
 ### 📫 Contact Me
