@@ -1,35 +1,37 @@
 <h1 align="center">Hi 👋, I'm Pratham Ranka</h1>
-<h3 align="center">Full Stack Dev • GDG @Thapar • OWASP @Thapar</h3>
+<h3 align="center">GDG @Thapar • Full Stack Developer • OWASP @Thapar</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Dev+with+Next.js+%26+Node.js;GSAP+%2B+Framer+Motion+Artist;C+%7C+C%2B%2B+%7C+Python+%7C+DSA+Explorer;AI+%7C+Blockchain+%7C+Cloud+Learner;Open-source+%26+Research+Enthusiast&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Dev+with+Next.js+%26+Node.js;GSAP+%2B+Framer+Motion+Artist;C+%7C+C%2B%2B+%7C+Python+%7C+DSA+Explorer;AI+%7C+Blockchain+%7C+Cloud+Learner;Open-source+%26+Research+Enthusiast&center=true&width=600&height=50" />
 </p>
 
 ---
 
 ### Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,tailwind,threejs,git,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,docker,tailwind,threejs,git,github,vercel" />
 </p>
 
 ---
 
 ### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathamRanka&show_icons=true&theme=dark&locale=en&layout=compact" alt="PrathamRanka" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamRanka&show_icons=true&theme=dark&locale=en" alt="PrathamRanka Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathamRanka&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="49%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathamRanka&show_icons=true&theme=dark&locale=en" alt="PrathamRanka" /></p>
-
+---
 
 ### Contact Me
 
-You can reach out to me via:
-
-- **Personal Email**: [pranka0789@gmail.com](mailto:pranka0789@gmail.com)  
-- **Student Email**: [pranka_be24@thapar.edu](mailto:pranka_be24@thapar.edu)  
-- **Portfolio Website**: [https://prathamranka-dev.vercel.app](https://prathamranka-dev.vercel.app)  
-- **LinkedIn**: [linkedin.com/in/prathamranka06](https://linkedin.com/in/prathamranka06)  
+<p align="center">
+  <a href="mailto:pranka0789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:pranka_be24@thapar.edu"><img src="https://img.shields.io/badge/Thapar-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Student Email" /></a>
+  <a href="https://prathamranka-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/prathamranka06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
