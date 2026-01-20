@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Ranka</h1>
-<h3 align="center">GDG @Thapar • Full Stack Developer • OWASP @Thapar</h3>
+<h3 align="center">Full Stack Developer • OWASP @Thapar</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Dev+with+Next.js+%26+Node.js;GSAP+%2B+Framer+Motion+Artist;C+%7C+C%2B%2B+%7C+Python+%7C+DSA+Explorer;AI+%7C+Blockchain+%7C+Cloud+Learner;Open-source+%26+Research+Enthusiast&center=true&width=600&height=50" />
