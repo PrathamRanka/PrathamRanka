@@ -70,10 +70,6 @@ const pratham = {
 
 ---
 
-![My GitHub Game](game.gif)
-
----
-
 ## GitHub Analytics
 
 <div align="center">
