@@ -75,7 +75,7 @@ const pratham = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamRanka&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
----
+
 
 ## Contact
 
