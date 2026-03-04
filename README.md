@@ -33,10 +33,10 @@ const pratham = {
   pronouns: "he/him",
   location: "Punjab, India",
   education: "B.E. @ Thapar Institute of Engineering & Technology",
-  currentFocus: ["Full-Stack Development", "AI/ML"],
+  currentFocus: ["Full-Stack Development"],
   communities: ["OWASP Thapar Chapter"],
   interests: ["Open Source"],
-  codingStyle: "Clean, maintainable, and well-documented"
+  codingStyle: "Clean & maintainable"
 };
 ```
 
