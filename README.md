@@ -14,7 +14,7 @@
 
 ### Full Stack Developer • OWASP @Thapar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications+with+Next.js;Crafting+smooth+animations+with+GSAP+%26+Framer;Exploring+AI%2C+Blockchain+%26+Cloud+technologies;Contributing+to+open-source+communities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications+with+Next.js;Crafting+smooth+animations+with+GSAP+%26+Framer;Exploring+Blockchain+%26+Cloud+technologies;Contributing+to+open-source+communities)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prathamranka--dev.vercel.app-3B82F6?style=for-the-badge)](https://prathamranka-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prathamranka06-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prathamranka06)
