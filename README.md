@@ -94,7 +94,7 @@ const pratham = {
 [![Gmail](https://img.shields.io/badge/Gmail-pranka0789@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranka0789@gmail.com)
 [![Thapar Mail](https://img.shields.io/badge/Student_Email-pranka__be24@thapar.edu-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pranka_be24@thapar.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratham_Ranka-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prathamranka06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-prathamranka--dev-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prathamranka-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prathamranka--dev-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prathamranka.in)
 
 </div>
 
