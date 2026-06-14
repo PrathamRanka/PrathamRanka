@@ -79,6 +79,23 @@ const pratham = {
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+## Open Source
+
+### Medusa
+
+**Merged:** [#15634](https://github.com/medusajs/medusa/pull/15634) — Fix product organization combobox search and cache invalidation
+
+Contributed a fix to Medusa's admin experience by improving product organization search functionality and resolving cache invalidation issues, ensuring users see accurate and up-to-date data after updates.
+
+**Areas of Interest**
+
+* Open Source Software
+* Full-Stack Development
+* Developer Tooling
+* System Design
+
+
+---
 
 ## GitHub Analytics
 
