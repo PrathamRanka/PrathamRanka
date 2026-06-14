@@ -84,6 +84,7 @@ const pratham = {
 ### Medusa
 
 **Merged:** [#15634](https://github.com/medusajs/medusa/pull/15634) — Fix product organization combobox search and cache invalidation
+**Open:** - [#15699](https://github.com/medusajs/medusa/pull/15699) — Fix(admin): widen vite dependency range 
 ---
 
 ## GitHub Analytics
