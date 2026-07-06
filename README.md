@@ -22,7 +22,6 @@
 [![Portfolio](https://img.shields.io/badge/prathamranka.in-0D1117?style=for-the-badge&logo=firefox&logoColor=3B82F6&labelColor=0D1117)](https://prathamranka.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamranka06)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamworks06@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode_1500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PrathamRanka)
 
 </div>
 
