@@ -29,7 +29,7 @@ If you want to reuse this profile layout for yourself, the flow is simple:
 3. Regenerate everything with one command:
 
 ```powershell
-python scripts/build_profile.py
+.\.venv\Scripts\python.exe scripts/build_profile.py
 ```
 
 That command checks timestamps and only reruns the parts that are stale. Use `--all` if you want to force a full rebuild.
