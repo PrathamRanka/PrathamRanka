@@ -43,7 +43,7 @@ ROWS = [
     ("kv", "Previous", "Software Engineer Intern @ Paasa (YC S24)"),
     ("kv", "Open Source", "Medusa Contributor"),
     ("kv", "Education", "Computer Engineering @ TIET"),
-    ("kv", "Communities", "OWASP TIET Core · GDG TIET Core"),
+    ("kv", "Communities", "OWASP TIET Core Team, Medusa Contributor"),
     ("kv", "Focus", "Distributed systems · backend · AI · infra"),
     ("gap",),
     ("sec", "Stack"),

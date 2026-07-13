@@ -19,3 +19,33 @@ Software Engineer · AI Engineer · Backend Engineer · Open Source Contributor
 </div>
 
 <img src="./pratham-heatmap.svg" width="860" alt="Pratham Ranka's GitHub contribution graph — auto-refreshed daily" />
+
+## How To Use This Repo
+
+If you want to reuse this profile layout for yourself, the flow is simple:
+
+1. Replace the photo in [pratham-photo.jpeg](pratham-photo.jpeg) with your own image.
+2. Update the details in [scripts/make_info_card.py](scripts/make_info_card.py) with your name, links, roles, projects, and skills.
+3. Regenerate the assets by running:
+
+```powershell
+python scripts/prep_photo.py
+python scripts/make_ascii_svg.py
+python scripts/make_info_card.py
+python scripts/fetch_contributions.py
+python scripts/render_heatmap_svg.py
+```
+
+4. Commit the updated SVGs and README.
+
+If you change any source file in `scripts/`, rerun the generator scripts above so the visible profile assets stay in sync.
+
+## Cron Job
+
+The GitHub Actions workflow in [.github/workflows/update-profile-art.yml](.github/workflows/update-profile-art.yml) runs on a cron schedule.
+
+In this repo, the cron string `17 6 * * *` means the workflow runs every day at about 06:17 UTC. The workflow refreshes the contribution data and rebuilds [pratham-heatmap.svg](pratham-heatmap.svg), then commits the updated files back to the repository.
+
+## Local Setup
+
+Use the main virtual environment at `.venv/`. The extra `.venv-1/` directory is not needed.
