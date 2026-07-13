@@ -14,12 +14,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "pratham-info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 560, 560
+W, H = 480, 376
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
-VAL_X = PAD + 122
-LINE_H = 21.0
+VAL_X = PAD + 92
+LINE_H = 20.5
 
 BG = "#0d1117"
 BG2 = "#111722"
@@ -50,6 +50,10 @@ ROWS = [
     ("kv", "Backend", "Python, FastAPI, Node.js, Express, Redis"),
     ("kv", "Frontend", "React, Next.js, TypeScript"),
     ("kv", "Infra", "Docker, GitHub Actions, AWS, Railway, Vercel"),
+    ("gap",),
+    ("sec", "Highlights"),
+    ("bul", "Qualcomm x Snapdragon Hackathon Finalist'26"),
+    ("bul", "Hack4Delhi - Top 10 out of 5k+ teams"),
 ]
 
 
