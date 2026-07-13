@@ -48,22 +48,14 @@ ROWS = [
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Backend", "Python, FastAPI, Node.js, Express, Redis"),
-    ("kv", "Frontend", "React, Next.js, TailwindCSS, TypeScript"),
-    ("kv", "AI", "OpenAI SDK, LangChain, Computer Vision, LLMs"),
+    ("kv", "Frontend", "React, Next.js, TypeScript"),
     ("kv", "Infra", "Docker, GitHub Actions, AWS, Railway, Vercel"),
     ("gap",),
     ("sec", "Projects"),
     ("bul", "StarSwap — fast swap flows for product decisions"),
     ("bul", "ZKavach — privacy-first security tooling"),
     ("bul", "SitWise — seat selection and workflow optimization"),
-    ("bul", "FormFusion — reusable forms and validation patterns"),
-    ("bul", "Ranka Enterprises — operations dashboard and reporting"),
     ("bul", "OWASP Quiz Platform — community drills for security learning"),
-    ("gap",),
-    ("sec", "Commands"),
-    ("bul", "help · whoami · experience · projects · opensource"),
-    ("bul", "resume · skills · hackathons · github · linkedin"),
-    ("bul", "portfolio · contact · leetcode · techstack · clear · matrix · theme"),
 ]
 
 
