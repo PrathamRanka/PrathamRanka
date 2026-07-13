@@ -26,7 +26,15 @@ If you want to reuse this profile layout for yourself, the flow is simple:
 
 1. Replace the photo in [pratham-photo.jpeg](pratham-photo.jpeg) with your own image.
 2. Update the details in [scripts/make_info_card.py](scripts/make_info_card.py) with your name, links, roles, projects, and skills.
-3. Regenerate the assets by running:
+3. Regenerate everything with one command:
+
+```powershell
+python scripts/build_profile.py
+```
+
+That command checks timestamps and only reruns the parts that are stale. Use `--all` if you want to force a full rebuild.
+
+If you prefer the explicit steps, run:
 
 ```powershell
 python scripts/prep_photo.py
@@ -44,7 +52,7 @@ If you change any source file in `scripts/`, rerun the generator scripts above s
 
 The GitHub Actions workflow in [.github/workflows/update-profile-art.yml](.github/workflows/update-profile-art.yml) runs on a cron schedule.
 
-In this repo, the cron string `17 6 * * *` means the workflow runs every day at about 06:17 UTC. The workflow refreshes the contribution data and rebuilds [pratham-heatmap.svg](pratham-heatmap.svg), then commits the updated files back to the repository.
+In this repo, the cron string `*/5 * * * *` means the workflow runs about every 5 minutes. GitHub can still delay scheduled jobs a bit, but this is the fastest standard cadence available. The workflow refreshes the contribution data and rebuilds [pratham-heatmap.svg](pratham-heatmap.svg), then commits the updated files back to the repository.
 
 ## Local Setup
 
