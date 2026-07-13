@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./pratham-ascii.svg" width="370" alt="Pratham Ranka ASCII portrait" /></td>
-<td valign="top"><img src="./pratham-info-card.svg" width="490" alt="Pratham Ranka profile card" /></td>
+<td valign="top"><img src="./pratham-ascii.svg" width="390" alt="Pratham Ranka ASCII portrait" /></td>
+<td valign="top"><img src="./pratham-info-card.svg" width="510" alt="Pratham Ranka profile card" /></td>
 </tr>
 </table>
 
