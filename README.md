@@ -19,5 +19,3 @@ Software Engineer · AI Engineer · Backend Engineer · Open Source Contributor
 </div>
 
 <img src="./pratham-heatmap.svg" width="860" alt="Pratham Ranka's GitHub contribution graph — auto-refreshed daily" />
-
-If you want to reuse this setup for your own profile, see [PROFILE_SETUP.md](PROFILE_SETUP.md).
