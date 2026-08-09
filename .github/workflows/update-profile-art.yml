@@ -1,11 +1,11 @@
 name: Update profile art
 
-# Refreshes the contribution graph SVG on a 5-minute cadence.
-# Runs every 5 minutes, plus whenever you push to main, plus on-demand.
+# Refreshes the contribution graph SVG daily.
+# Runs once every day, whenever you push to main, and on-demand.
 
-"on":
+on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes (GitHub's practical minimum cadence)
+    - cron: "30 18 * * *"   # every day at 00:00 UTC
   workflow_dispatch: {}
   push:
     branches: [main]
