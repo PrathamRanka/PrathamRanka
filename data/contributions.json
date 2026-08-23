@@ -1,22 +1,22 @@
 {
   "username": "PrathamRanka",
-  "generated_at": "2026-08-22T18:56:50Z",
+  "generated_at": "2026-08-23T18:56:06Z",
   "range": {
-    "start": "2025-08-17",
-    "end": "2026-08-22"
+    "start": "2025-08-24",
+    "end": "2026-08-23"
   },
-  "total_contributions": 2267,
-  "active_days": 231,
+  "total_contributions": 2184,
+  "active_days": 223,
   "avg_per_active_day": 9.8,
   "current_streak": {
-    "length": 41,
+    "length": 42,
     "start": "2026-07-12",
-    "end": "2026-08-21"
+    "end": "2026-08-22"
   },
   "longest_streak": {
-    "length": 41,
+    "length": 42,
     "start": "2026-07-12",
-    "end": "2026-08-21"
+    "end": "2026-08-22"
   },
   "best_day": {
     "date": "2026-06-23",
@@ -25,11 +25,11 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 81
+      "total": 2
     },
     {
       "month": "2025-09",
-      "total": 31
+      "total": 30
     },
     {
       "month": "2025-10",
@@ -41,11 +41,11 @@
     },
     {
       "month": "2025-12",
-      "total": 23
+      "total": 20
     },
     {
       "month": "2026-01",
-      "total": 235
+      "total": 234
     },
     {
       "month": "2026-02",
@@ -73,45 +73,17 @@
     },
     {
       "month": "2026-08",
-      "total": 226
+      "total": 227
     }
   ],
   "days": [
-    {
-      "date": "2025-08-17",
-      "count": 4
-    },
-    {
-      "date": "2025-08-18",
-      "count": 11
-    },
-    {
-      "date": "2025-08-19",
-      "count": 44
-    },
-    {
-      "date": "2025-08-20",
-      "count": 15
-    },
-    {
-      "date": "2025-08-21",
-      "count": 2
-    },
-    {
-      "date": "2025-08-22",
-      "count": 0
-    },
-    {
-      "date": "2025-08-23",
-      "count": 0
-    },
     {
       "date": "2025-08-24",
       "count": 0
     },
     {
       "date": "2025-08-25",
-      "count": 3
+      "count": 0
     },
     {
       "date": "2025-08-26",
@@ -175,7 +147,7 @@
     },
     {
       "date": "2025-09-10",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2025-09-11",
@@ -591,7 +563,7 @@
     },
     {
       "date": "2025-12-23",
-      "count": 3
+      "count": 0
     },
     {
       "date": "2025-12-24",
@@ -675,7 +647,7 @@
     },
     {
       "date": "2026-01-13",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-01-14",
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-08-22",
+      "count": 1
+    },
+    {
+      "date": "2026-08-23",
       "count": 0
     }
   ]
