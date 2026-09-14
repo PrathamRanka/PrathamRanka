@@ -1,17 +1,17 @@
 {
   "username": "PrathamRanka",
-  "generated_at": "2026-09-10T21:02:26Z",
+  "generated_at": "2026-09-14T21:56:34Z",
   "range": {
-    "start": "2025-09-07",
-    "end": "2026-09-10"
+    "start": "2025-09-14",
+    "end": "2026-09-14"
   },
-  "total_contributions": 2254,
-  "active_days": 237,
-  "avg_per_active_day": 9.5,
+  "total_contributions": 2270,
+  "active_days": 235,
+  "avg_per_active_day": 9.7,
   "current_streak": {
-    "length": 1,
-    "start": "2026-09-10",
-    "end": "2026-09-10"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 59,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-09",
-      "total": 27
+      "total": 5
     },
     {
       "month": "2025-10",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-09",
-      "total": 36
+      "total": 74
     }
   ],
   "days": [
-    {
-      "date": "2025-09-07",
-      "count": 16
-    },
-    {
-      "date": "2025-09-08",
-      "count": 5
-    },
-    {
-      "date": "2025-09-09",
-      "count": 1
-    },
-    {
-      "date": "2025-09-10",
-      "count": 0
-    },
-    {
-      "date": "2025-09-11",
-      "count": 0
-    },
-    {
-      "date": "2025-09-12",
-      "count": 0
-    },
-    {
-      "date": "2025-09-13",
-      "count": 0
-    },
     {
       "date": "2025-09-14",
       "count": 0
@@ -1551,7 +1523,23 @@
     },
     {
       "date": "2026-09-10",
-      "count": 6
+      "count": 7
+    },
+    {
+      "date": "2026-09-11",
+      "count": 37
+    },
+    {
+      "date": "2026-09-12",
+      "count": 0
+    },
+    {
+      "date": "2026-09-13",
+      "count": 0
+    },
+    {
+      "date": "2026-09-14",
+      "count": 0
     }
   ]
 }
