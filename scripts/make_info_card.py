@@ -39,11 +39,8 @@ ACCENT = "#22d3ee"
 # ("gap",)                     -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Current", "Software Engineer Intern @ S45"),
-    ("kv", "Previous", "Software Engineer Intern @ Paasa (YC S24)"),
-    ("kv", "Open Source", "Medusa Contributor"),
+    ("kv", "Previous", "Software Engineer Intern @ Paasa (YC S24), @ S45"),
     ("kv", "Education", "Computer Engineering @ TIET"),
-    ("kv", "Communities", "OWASP TIET Core Team, Medusa Contributor"),
     ("kv", "Focus", "Distributed systems · backend · AI · infra"),
     ("gap",),
     ("sec", "Stack"),
@@ -53,7 +50,6 @@ ROWS = [
     ("gap",),
     ("sec", "Highlights"),
     ("bul", "Qualcomm x Snapdragon Hackathon Finalist'26"),
-    ("bul", "Hack4Delhi - Top 10 out of 5k+ teams"),
 ]
 
 
